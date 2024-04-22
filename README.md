@@ -18,4 +18,7 @@ Need to figure out how to lower loss. (Overfitting)
 
 Which parameters work best?
 
+Everything takes so long to run...
+
+
 
