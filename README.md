@@ -6,6 +6,11 @@ Dataset: https://universe.roboflow.com/airport-security-scanning/airport-securit
 
 5 classifications: Folding Knife, Multi-tool Knife, Scissor, Straight Knife, Utility Knife
 
+Currently have played around with:
 
+* VGG16 ~ 34%
+* ResNet (I've tried freezing and unfreezing layers, adding dropout layers, etc.) ~ 36% best accuracy.  
+
+Professor Gold said: look for NN architecture that works with high resolution pictures given the quality of the images from the dataset. 
 
 
