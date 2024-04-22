@@ -13,4 +13,9 @@ Currently have played around with:
 
 Professor Gold said: look for NN architecture that works with high resolution pictures given the quality of the images from the dataset. 
 
+## Try to make a drastic increase in accuracy, doesn't have to be perfect.
+Need to figure out how to lower loss. (Overfitting)
+
+Which parameters work best?
+
 
