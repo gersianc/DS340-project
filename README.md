@@ -6,19 +6,7 @@ Dataset: https://universe.roboflow.com/airport-security-scanning/airport-securit
 
 5 classifications: Folding Knife, Multi-tool Knife, Scissor, Straight Knife, Utility Knife
 
-Currently have played around with:
-
-* VGG16 ~ 34%
-* ResNet (I've tried freezing and unfreezing layers, adding dropout layers, etc.) ~ 36% best accuracy.  
-
-Professor Gold said: look for NN architecture that works with high resolution pictures given the quality of the images from the dataset. 
-
-## Try to make a drastic increase in accuracy, doesn't have to be perfect.
-Need to figure out how to lower loss. (Overfitting)
-
-Which parameters work best?
-
-Everything takes so long to run...
+Feel free to read findings and how I later implemented a sliding window technique to determine hotspots in the heatmap of an X-ray image.
 
 
 
